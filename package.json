@@ -1,0 +1,17 @@
+{
+  "name": "@f/is-action-type",
+  "description": "Check if is standard action of specified type.",
+  "repository": "git://github.com/micro-js/is-action-type.git",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "postversion": "git push && git push --tags && npm publish --access=public"
+  },
+  "dependencies": {
+    "@f/is-action": "^1.0.3"
+  },
+  "devDependencies": {
+    "tape": "^4.2.2"
+  }
+}
