@@ -2,7 +2,7 @@
   "name": "@f/is-action-type",
   "description": "Check if is standard action of specified type.",
   "repository": "git://github.com/micro-js/is-action-type.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
